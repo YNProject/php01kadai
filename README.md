@@ -5,7 +5,8 @@
 - 距離と徒歩時間と営業時間も表示しているのでギリギリの場合の行くかどうかの判断に
 
 ## ③アプリのデプロイURL
-https://XXXXXXX
+https://yugames.sakura.ne.jp/php01kadai/index.php
+https://yugames.sakura.ne.jp/php01kadai/read.php
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回無し
